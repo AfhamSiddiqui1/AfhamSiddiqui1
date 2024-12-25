@@ -2,7 +2,6 @@
 <h3 align="center">I'm Currently Learning</h3>
 <img align="center" alt="coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRyOGppdDl1OTZzN2F6MzN0ZzZtcTV0NGdsN2Z4djE2bDFqNzVxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" width="300" height="300"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afhamsiddiqui1&label=Profile%20views&color=0e75b6&style=flat" alt="afhamsiddiqui1" /> </p>
 
 - 🌱 I’m currently learning **Html, CSS, JavaScript, Nodejs**
 
