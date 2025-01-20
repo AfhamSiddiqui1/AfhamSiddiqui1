@@ -1,14 +1,3 @@
-<div style="display: flex;flex-direction: column; align-items: center;>
-        <h1 align="center">Hi 👋, I'm Muhammad Afham Siddiqui</h1>
-        <h3 align="center">I'm Currently Learning</h3>
-        <img alt="coding"
-                        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRyOGppdDl1OTZzN2F6MzN0ZzZtcTV0NGdsN2Z4djE2bDFqNzVxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp"
-                        width="300" height="300" /></div>
-        <p align="left"> <img
-                        src="https://komarev.com/ghpvc/?username=afhamsiddiqui1&label=Profile%20views&color=0e75b6&style=flat"
-                        alt="afhamsiddiqui1" /> </p>
-        <br />
-        <br />
         - 🌱 I’m currently learning **Html, CSS, JavaScript, Nodejs**
 
         - 📫 How to reach me **afhamsiddiqui.5@gmail.com**
